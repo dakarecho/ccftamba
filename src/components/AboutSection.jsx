@@ -41,7 +41,7 @@ export default function AboutSection() {
           <div className="about-image">
             <div className="about-image-decoration"></div>
             <img
-              src="https://img.rocket.new/generatedImages/rocket_gen_img_12dd1ec56-1772242234587.png"
+              src="/assets/images/gallery-2.jpeg"
               alt="Femmes africaines réunies en atelier de formation"
             />
           </div>

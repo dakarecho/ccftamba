@@ -22,6 +22,7 @@ export default function Navbar() {
           <li><NavLink to="/about" onClick={() => setOpen(false)}>Notre Organisation</NavLink></li>
           <li><NavLink to="/activities" onClick={() => setOpen(false)}>Activités</NavLink></li>
           <li><NavLink to="/news" onClick={() => setOpen(false)}>Actualités</NavLink></li>
+          <li><NavLink to="/gallery" onClick={() => setOpen(false)}>Galerie</NavLink></li>
           <li><Link to="/contact" className="btn btn-primary" onClick={() => setOpen(false)}>Adhérer</Link></li>
         </ul>
       </div>

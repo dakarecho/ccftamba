@@ -48,7 +48,7 @@ export default function About() {
             </div>
             <div className="about-page-image">
               <img
-                src="https://img.rocket.new/generatedImages/rocket_gen_img_12dd1ec56-1772242234587.png"
+                src="/assets/images/gallery-12.jpeg"
                 alt="Femmes africaines réunies en atelier de formation"
               />
             </div>

@@ -24,6 +24,7 @@ export default function Footer() {
               <li><Link to="/about">Notre Organisation</Link></li>
               <li><Link to="/activities">Activités 2015–2024</Link></li>
               <li><Link to="/news">Actualités</Link></li>
+              <li><Link to="/gallery">Galerie</Link></li>
             </ul>
           </div>
           <div>

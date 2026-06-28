@@ -7,19 +7,19 @@ const fallbackNews = [
     id: 1, title: 'Lancement du Plan Stratégique 2025–2030 du CCF-TAMBA',
     content: 'Le CCF-TAMBA a officiellement lancé son plan stratégique pour la période 2025–2030, marquant une nouvelle étape dans la consolidation de ses actions pour l\'autonomisation des femmes.',
     category: 'Communiqué', date: '2025-03-15',
-    image_url: 'https://img.rocket.new/generatedImages/rocket_gen_img_1be8c55eb-1778439944182.png',
+    image_url: '/assets/images/gallery-6.jpeg',
   },
   {
     id: 2, title: 'Bilan du Projet ALM/OPTION 2024 : Lutte contre les MGF et VBG',
     content: 'Retour sur les activités menées dans les communes de Koussanar, Missirah et Balla : formation de relais communautaires, causeries et dialogues pour l\'élimination des MGF.',
     category: 'Rapport d\'activités', date: '2025-01-20',
-    image_url: 'https://img.rocket.new/generatedImages/rocket_gen_img_10489531a-1772093558850.png',
+    image_url: '/assets/images/gallery-7.jpeg',
   },
   {
     id: 3, title: 'Formation en Produits Halieutiques avec le 3FPT',
     content: 'En partenariat avec le Fonds de Financement de la Formation Professionnelle et Technique (3FPT), le CCF-TAMBA a organisé des formations en transformation et conservation des produits de la pêche.',
     category: 'Formation', date: '2024-12-10',
-    image_url: 'https://img.rocket.new/generatedImages/rocket_gen_img_1e8b8047e-1769527834791.png',
+    image_url: '/assets/images/gallery-8.jpeg',
   },
 ]
 

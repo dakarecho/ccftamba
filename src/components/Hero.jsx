@@ -27,7 +27,7 @@ export default function Hero() {
           <div className="hero-image-border"></div>
           <div className="hero-image-wrapper">
             <img
-              src="https://img.rocket.new/generatedImages/rocket_gen_img_1557c3ee6-1764807754890.png"
+              src="/assets/images/gallery-1.jpeg"
               alt="Femmes sénégalaises travaillant dans un jardin maraîcher"
             />
           </div>

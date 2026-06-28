@@ -3,6 +3,7 @@ import Stats from '../components/Stats'
 import AboutSection from '../components/AboutSection'
 import ActivitiesSection from '../components/ActivitiesSection'
 import NewsSection from '../components/NewsSection'
+import GallerySection from '../components/GallerySection'
 import Partners from '../components/Partners'
 import CallToAction from '../components/CallToAction'
 
@@ -14,6 +15,7 @@ export default function Home() {
       <AboutSection />
       <ActivitiesSection />
       <NewsSection />
+      <GallerySection />
       <Partners />
       <CallToAction />
     </>

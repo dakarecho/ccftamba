@@ -6,6 +6,7 @@ import About from './pages/About'
 import Activities from './pages/Activities'
 import News from './pages/News'
 import NewsDetail from './pages/NewsDetail'
+import Gallery from './pages/Gallery'
 import Contact from './pages/Contact'
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route path="/activities" element={<Activities />} />
           <Route path="/news" element={<News />} />
           <Route path="/news/:id" element={<NewsDetail />} />
+          <Route path="/gallery" element={<Gallery />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>

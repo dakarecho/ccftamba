@@ -10,7 +10,7 @@ const fallbackActivities = [
     category: 'Lutte MGF/VBG',
     year: '2024',
     partner: 'ALM / OPTION',
-    image_url: 'https://img.rocket.new/generatedImages/rocket_gen_img_1ee0f9e5c-1772098241485.png',
+    image_url: '/assets/images/gallery-3.jpeg',
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const fallbackActivities = [
     category: 'Plaidoyer',
     year: '2023',
     partner: 'FAR',
-    image_url: 'https://img.rocket.new/generatedImages/rocket_gen_img_1ca5b458f-1766786092064.png',
+    image_url: '/assets/images/gallery-4.jpeg',
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const fallbackActivities = [
     category: 'Sensibilisation',
     year: '2022',
     partner: 'CARITAS',
-    image_url: 'https://img.rocket.new/generatedImages/rocket_gen_img_12dd1ec56-1772242234587.png',
+    image_url: '/assets/images/gallery-5.jpeg',
   },
 ]
 
